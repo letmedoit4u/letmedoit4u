@@ -4,7 +4,7 @@
 **letmedoit4u/letmedoit4u** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+<h1> I'm starting my journey as a web designer </h1>
 - i'm currently studying web designing and coding
 - 🌱 my first attempt to get the web page online ...
 - 👯 I’m looking to collaborate on new web pages
